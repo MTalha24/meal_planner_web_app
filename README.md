@@ -42,3 +42,5 @@ The project goal:
    - create React components and unit them in App.js
    - styling app with CSS in App.css document
 
+Created By Talha
+
